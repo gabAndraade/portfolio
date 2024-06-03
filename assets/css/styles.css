@@ -1286,7 +1286,7 @@ body.dark-theme{
         grid-row: 1 / 3;
     }
     .about__image{
-        width: 350px;
+        width: 200px;
     }
     .about__img{
         border: 8px solid var(--white-color);
